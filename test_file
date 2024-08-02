@@ -1,0 +1,1 @@
+SELECT top(2) * FROM [PHARMA_IT_PROD].[dbo].[LOGS_AXON]
